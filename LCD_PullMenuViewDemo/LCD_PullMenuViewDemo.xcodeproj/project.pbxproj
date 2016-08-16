@@ -17,7 +17,6 @@
 		ABBBC9AA1D62B0DC00192A81 /* LCD_PullMenuViewDefaultCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABBBC9A71D62B0DC00192A81 /* LCD_PullMenuViewDefaultCell.swift */; };
 		ABBBC9AB1D62B0DC00192A81 /* LCD_PullMenuViewDefaultCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = ABBBC9A81D62B0DC00192A81 /* LCD_PullMenuViewDefaultCell.xib */; };
 		ABBBC9AD1D62B19200192A81 /* LCDExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABBBC9AC1D62B19200192A81 /* LCDExtension.swift */; };
-		ABBBC9AF1D62EC9500192A81 /* 下拉菜单.mov in Resources */ = {isa = PBXBuildFile; fileRef = ABBBC9AE1D62EC9500192A81 /* 下拉菜单.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,7 +33,6 @@
 		ABBBC9A71D62B0DC00192A81 /* LCD_PullMenuViewDefaultCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LCD_PullMenuViewDefaultCell.swift; sourceTree = "<group>"; };
 		ABBBC9A81D62B0DC00192A81 /* LCD_PullMenuViewDefaultCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LCD_PullMenuViewDefaultCell.xib; sourceTree = "<group>"; };
 		ABBBC9AC1D62B19200192A81 /* LCDExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LCDExtension.swift; sourceTree = "<group>"; };
-		ABBBC9AE1D62EC9500192A81 /* 下拉菜单.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "下拉菜单.mov"; sourceTree = "<group>"; };
 		FE6A77C63E9B4FA36A80BA38 /* Pods_LCD_PullMenuViewDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LCD_PullMenuViewDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -62,7 +60,6 @@
 		ABBBC9871D62B0C400192A81 = {
 			isa = PBXGroup;
 			children = (
-				ABBBC9AE1D62EC9500192A81 /* 下拉菜单.mov */,
 				ABBBC9A51D62B0DC00192A81 /* LCD_PullMenuView */,
 				ABBBC9921D62B0C400192A81 /* LCD_PullMenuViewDemo */,
 				ABBBC9911D62B0C400192A81 /* Products */,
@@ -175,7 +172,6 @@
 				ABBBC9AB1D62B0DC00192A81 /* LCD_PullMenuViewDefaultCell.xib in Resources */,
 				ABBBC99E1D62B0C400192A81 /* LaunchScreen.storyboard in Resources */,
 				ABBBC99B1D62B0C400192A81 /* Assets.xcassets in Resources */,
-				ABBBC9AF1D62EC9500192A81 /* 下拉菜单.mov in Resources */,
 				ABBBC9991D62B0C400192A81 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
